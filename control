@@ -1,0 +1,8 @@
+Package: kr.h4ck.trolldecryptor
+Name: trolldecryptor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome ipa decryptor for Trollstore
+Maintainer: h4ck.kr
+Author: h4ck.kr
+Section: Utilities
