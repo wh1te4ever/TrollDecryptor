@@ -1,0 +1,12 @@
+*.o
+.theos/*
+debs/*
+*.deb
+*.dylib
+**/.theos/*
+*/.theos/*
+*.psd
+_/*
+*/obj/*
+obj/*
+*.zip
