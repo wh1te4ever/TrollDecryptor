@@ -13,3 +13,4 @@ obj/*
 dummy
 Payload
 *.ipa
+.DS_Store
